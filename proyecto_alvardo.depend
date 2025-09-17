@@ -1,7 +1,15 @@
 # depslib dependency file v1.0
-1758060858 source:c:\users\hp\downloads\pro\proyecto_alvarado\main.cpp
+1758138833 source:c:\users\hp\downloads\pro\proyecto_alvarado\main.cpp
 	<GL/glut.h>
-	<cstdlib>
+	<vector>
+	<stack>
+	<cstdio>
+	<cmath>
+	<cstring>
+	<iostream>
+	"lineadirecta.h"
+	"circulopuntomedio.h"
+	"elipsepuntomedio.h"
 
 1426367728 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glut.h
 	"freeglut_std.h"
@@ -872,4 +880,25 @@
 
 1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
 	<GL/gl.h>
+
+1758136704 source:c:\users\hp\downloads\pro\proyecto_alvarado\circulopuntomedio.cpp
+	"circulopuntomedio.h"
+	<GL/glut.h>
+
+1758139035 c:\users\hp\downloads\pro\proyecto_alvarado\circulopuntomedio.h
+
+1758136704 source:c:\users\hp\downloads\pro\proyecto_alvarado\elipsepuntomedio.cpp
+	"elipsepuntomedio.h"
+	<GL/glut.h>
+	<cmath>
+
+1758136704 c:\users\hp\downloads\pro\proyecto_alvarado\elipsepuntomedio.h
+
+1758136704 source:c:\users\hp\downloads\pro\proyecto_alvarado\lineadirecta.cpp
+	"lineadirecta.h"
+	<GL/glut.h>
+	<cmath>
+	<algorithm>
+
+1758136704 c:\users\hp\downloads\pro\proyecto_alvarado\lineadirecta.h
 
